@@ -1,3 +1,9 @@
+//Wrap the below code around the product div. Make sure each product you want a price hidden for is set to $0.//
+
 {% unless product.price == 0 %}
+
+<div>
+Some product set to $0
+</div>
 
 {% endunless %}
