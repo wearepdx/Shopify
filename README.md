@@ -1,2 +1,2 @@
 # Shopify
-A repository for Shopify code we've needed to write/dev for various projects. 
+A repository for Shopify code we wrote or developed for various client projects. 
