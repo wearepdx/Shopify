@@ -1,10 +1,5 @@
-//Wrap the below code around the product div. Make sure each product you want a price hidden for is set to $0.//
-//When placed within a "collections" page is becomes a global variable//
 
 {% unless product.price == 0 %}
 
-<div>
-Some product set to $0
-</div>
 
 {% endunless %}
